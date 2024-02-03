@@ -16,5 +16,3 @@ xmltodict
 streamlit-option-menu
 millify
 jupyterlab
-
-.
